@@ -188,7 +188,7 @@ function render(m,id,ratio){
   el(
    'a',
    'lvr-link',
-   'LOYAL TATTOO Tattoo art YouTube List を開く'
+   'Open LOYAL TATTOO Tattoo art YouTube List'
   )
  );
 
